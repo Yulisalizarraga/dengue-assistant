@@ -9,6 +9,8 @@ El objetivo principal es identificar de forma temprana a personas con síntomas 
 ---
 
 ## Síntomas Clave para Detectar el Dengue
+dolor  de cabeza 
+dolor de estómago 
 
 Las guías clínicas internacionales (OMS, OPS, CDC, Ministerios de Salud) describen un conjunto de síntomas típicos que orientan al diagnóstico de dengue. Es fundamental incluir tanto los síntomas iniciales de la fase temprana de la enfermedad, como los signos de alarma que indican progresión a una forma grave. A continuación se detallan estos síntomas, diferenciando entre manifestaciones iniciales (dengue sin alarma) y signos de alarma (dengue grave), respaldados por fuentes confiables:
 
